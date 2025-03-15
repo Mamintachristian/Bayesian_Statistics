@@ -1,3 +1,4 @@
+# Average Coffee Consumption of Filipinos (Cups per Day)
 import numpy as np
 import matplotlib.pyplot as plt
 
